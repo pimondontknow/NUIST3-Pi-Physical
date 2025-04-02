@@ -1,3 +1,7 @@
+#Author: Liu Yifei
+#Date: 2/4/2025
+#Description: an animal quiz game
+
 # NUIST Quiz Game in Python
 def quiz():
     print("Welcome to the Animal Quiz!")
